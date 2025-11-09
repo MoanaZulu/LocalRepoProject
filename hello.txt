@@ -1,1 +1,2 @@
-Hello, I am Moana.
+Hello, Git and GitHub!
+
